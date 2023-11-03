@@ -20,7 +20,7 @@
             "paginas": 96,
             "local": "'Nova Iorque'",
             "emprestimo": "Emprestado",
-            "imagem": "exemplo2.jpg"
+            "imagem": "https://m.media-amazon.com/images/I/41g8DrvrRVL.jpg"
         },
         {
             "titulo": "Grande Sertão: Veredas",
@@ -31,7 +31,7 @@
             "paginas": 608,
             "local": "Minas Gerais",
             "emprestimo": "Não emprestado",
-            "imagem": "exemplo3.jpg"
+            "imagem": "https://m.media-amazon.com/images/I/81NtboFZziL._AC_UF1000,1000_QL80_.jpg"
         },
         {
             "titulo": "A Revolução dos Bichos",
@@ -42,7 +42,7 @@
             "paginas": 112,
             "local": "Londres",
             "emprestimo": "Emprestado",
-            "imagem": "exemplo4.jpg"
+            "imagem": "https://m.media-amazon.com/images/I/91BsZhxCRjL._AC_UF1000,1000_QL80_.jpg"
         },
         {
             "titulo": "O Senhor dos Anéis",
@@ -53,7 +53,7 @@
             "paginas": 1178,
             "local": "Londres",
             "emprestimo": "Não emprestado",
-            "imagem": "exemplo5.jpg"
+            "imagem": "https://images-americanas.b2w.io/produtos/01/00/img/5202808/2/5202808278_1GG.jpg"
         },{
             "titulo": "Crime e Castigo",
             "autor": "Fiódor Dostoiévski",
@@ -63,7 +63,7 @@
             "paginas": 551,
             "local": "São Petersburgo",
             "emprestimo": "Não emprestado",
-            "imagem": "exemplo6.jpg"
+            "imagem": "https://m.media-amazon.com/images/I/51EsrsZmbbL.jpg"
         },
         {
             "titulo": "Orgulho e Preconceito",
@@ -74,7 +74,7 @@
             "paginas": 279,
             "local": "Londres",
             "emprestimo": "Emprestado",
-            "imagem": "exemplo7.jpg"
+            "imagem": "https://m.media-amazon.com/images/I/71wnBzT9WqL._AC_UF1000,1000_QL80_.jpg"
         },
         {
             "titulo": "A Metamorfose",
@@ -85,7 +85,7 @@
             "paginas": 55,
             "local": "Praga",
             "emprestimo": "Não emprestado",
-            "imagem": "exemplo8.jpg"
+            "imagem": "https://m.media-amazon.com/images/I/71mFnG3Bn3L._AC_UF1000,1000_QL80_.jpg"
         },
         {
             "titulo": "Moby Dick",
@@ -96,7 +96,7 @@
             "paginas": 585,
             "local": "Nova York",
             "emprestimo": "Emprestado",
-            "imagem": "exemplo9.jpg"
+            "imagem": "https://m.media-amazon.com/images/I/61kif0Iav7L._AC_UF894,1000_QL80_.jpg"
         }
     ]
 }
