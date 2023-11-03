@@ -1,0 +1,102 @@
+{
+    "listaLivros" : [
+        {
+            "titulo": "Dom Casmurro",
+            "autor": "Machado de Assis",
+            "edicao": "1ª edição",
+            "ano": 1899,
+            "genero": "Romance",
+            "paginas": 256,
+            "local": "Rio de Janeiro",
+            "emprestimo": "Não emprestado",
+            "imagem": "https://m.media-amazon.com/images/I/81XpG2iKTlL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "titulo": "O Pequeno Príncipe",
+            "autor": "Antoine de Saint-Exupéry",
+            "edicao": "1ª edição",
+            "ano": 1943,
+            "genero": "Fantasia",
+            "paginas": 96,
+            "local": "'Nova Iorque'",
+            "emprestimo": "Emprestado",
+            "imagem": "exemplo2.jpg"
+        },
+        {
+            "titulo": "Grande Sertão: Veredas",
+            "autor": "João Guimarães Rosa",
+            "edicao": "1ª edição",
+            "ano": 1956,
+            "genero": "Ficção",
+            "paginas": 608,
+            "local": "Minas Gerais",
+            "emprestimo": "Não emprestado",
+            "imagem": "exemplo3.jpg"
+        },
+        {
+            "titulo": "A Revolução dos Bichos",
+            "autor": "George Orwell",
+            "edicao": "1ª edição",
+            "ano": 1945,
+            "genero": "Sátira política",
+            "paginas": 112,
+            "local": "Londres",
+            "emprestimo": "Emprestado",
+            "imagem": "exemplo4.jpg"
+        },
+        {
+            "titulo": "O Senhor dos Anéis",
+            "autor": "J.R.R. Tolkien",
+            "edicao": "1ª edição",
+            "ano": 1954,
+            "genero": "Fantasia",
+            "paginas": 1178,
+            "local": "Londres",
+            "emprestimo": "Não emprestado",
+            "imagem": "exemplo5.jpg"
+        },{
+            "titulo": "Crime e Castigo",
+            "autor": "Fiódor Dostoiévski",
+            "edicao": "1ª edição",
+            "ano": 1866,
+            "genero": "Romance psicológico",
+            "paginas": 551,
+            "local": "São Petersburgo",
+            "emprestimo": "Não emprestado",
+            "imagem": "exemplo6.jpg"
+        },
+        {
+            "titulo": "Orgulho e Preconceito",
+            "autor": "Jane Austen",
+            "edicao": "1ª edição",
+            "ano": 1813,
+            "genero": "Romance",
+            "paginas": 279,
+            "local": "Londres",
+            "emprestimo": "Emprestado",
+            "imagem": "exemplo7.jpg"
+        },
+        {
+            "titulo": "A Metamorfose",
+            "autor": "Franz Kafka",
+            "edicao": "1ª edição",
+            "ano": 1915,
+            "genero": "Ficção filosófica",
+            "paginas": 55,
+            "local": "Praga",
+            "emprestimo": "Não emprestado",
+            "imagem": "exemplo8.jpg"
+        },
+        {
+            "titulo": "Moby Dick",
+            "autor": "Herman Melville",
+            "edicao": "1ª edição",
+            "ano": 1851,
+            "genero": "Aventura",
+            "paginas": 585,
+            "local": "Nova York",
+            "emprestimo": "Emprestado",
+            "imagem": "exemplo9.jpg"
+        }
+    ]
+}
